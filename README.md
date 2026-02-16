@@ -1,10 +1,10 @@
-# Java Calculator
+# Java com.gloria.assignment.calc.Calculator
 
 A Java-based calculator application built with Object-Oriented Programming (OOP) principles. This project demonstrates fundamental OOP concepts through the implementation of a functional calculator.
 
 ## Description
 
-Java Calculator is an assignment-based project (Ass1-oop) that implements a calculator using Java. The project showcases OOP design patterns and clean code practices for arithmetic operations.
+Java com.gloria.assignment.calc.Calculator is an assignment-based project (Ass1-oop) that implements a calculator using Java. The project showcases OOP design patterns and clean code practices for arithmetic operations.
 
 ## Features
 
@@ -16,7 +16,7 @@ Java Calculator is an assignment-based project (Ass1-oop) that implements a calc
 ## Technology Stack
 
 - **Language:** Java
-- **IDE:** IntelliJ IDEA (indicated by CalculatorDriver.iml)
+- **IDE:** IntelliJ IDEA (indicated by com.gloria.assignment.calc.CalculatorDriver.iml)
 - **Build System:** IntelliJ IDEA project structure
 
 ## Project Structure
